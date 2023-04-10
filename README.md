@@ -15,8 +15,8 @@ I've been learning to code for almost a year now, so far I have got my hands on 
 * ⚡  Music during shower is just real peace ✌️
 
 <a href="https://www.github.com/imvskalhans" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/imvskalhans?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/imvskalhans/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/imvskalhans/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/imvskalhans?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a><a href="https://www.twitter.com/imvskalhans/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/imvskalhans/?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
 /></a>
 ### Skills
 
@@ -44,21 +44,21 @@ src="https://img.shields.io/twitter/follow/imvskalhans/?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-stats.vercel.app/api?username=imvskalhans&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imvskalhans's GitHub stats" /></a>
+<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-stats.vercel.app/api?username=imvskalhans&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="imvskalhans's GitHub stats" /></a>
 
-<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imvskalhans&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imvskalhans&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=imvskalhans&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/imvskalhans"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=imvskalhans&bg_color=22272e&color=ffffff&line=a855f7&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/imvskalhans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvskalhans&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/imvskalhans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvskalhans&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/imvskalhans/Disney-HotstarClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=Disney-HotstarClone&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/imvskalhans/DSA-Codes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=DSA-Codes&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/imvskalhans/Disney-HotstarClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=Disney-HotstarClone&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/imvskalhans/DSA-Codes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=DSA-Codes&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/imvskalhans/My-Photo-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=My-Photo-Blog&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/imvskalhans/My-Photo-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=My-Photo-Blog&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/imvskalhans/My-Core-Java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=imvskalhans&repo=My-Core-Java&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
