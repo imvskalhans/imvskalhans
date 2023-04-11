@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Web Developer and a passionate learner of DSA
 ---------------------------------------------------
 
-I've been learning to code for almost a year now, so far I have got my hands on DSA, HTML5, CSS and Tailwind CSS, and JavaScript. currently, I'm learning React
+I've been learning to code for almost a year now, so far I have got my hands on DSA, HTML5, CSS, Tailwind CSS and JavaScript. <br />
+Currently I'm learning React and NodeJs.
 
 * 🌍  I'm based in Lucknow, India
 * 🖥️  See my portfolio at [Leetcode](http://https://leetcode.com/vsk6645/)
