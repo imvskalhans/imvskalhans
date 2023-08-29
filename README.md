@@ -4,16 +4,17 @@ Heya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I'm a Web Developer and a passionate learner of DSA
 ---------------------------------------------------
 
-I've been learning to code for almost a year now, so far I have got my hands on DSA, HTML5, CSS, Tailwind CSS and JavaScript. <br />
-Currently I'm learning React and NodeJs.
+I've been learning to code for almost a year now, and so far I have got my hands on DSA, HTML5, CSS, Tailwind CSS, and JavaScript. <br />
+Currently, I'm learning React and NodeJs.
 
 * 🌍  I'm based in Lucknow, India
-* 🖥️  See my portfolio at [Leetcode](http://https://leetcode.com/vsk6645/)
+* 🖥️  See my portfolio at [My Portfolio](https://imvskalhans.github.io/My-Portfolio/)
+* 🖥️  See my LeetCode profile at [Leetcode](http://https://leetcode.com/vsk6645/)
 * ✉️  You can contact me at [vsk6645@gmail.com](mailto:vsk6645@gmail.com)
-* 🚀  I'm currently working on [My Photo Blog Project](http://imvskalhans.github.io/My-Photo-Blog/)
+* 🚀  I'm currently working on a Food delivery site Web Project.
 * 🧠  I'm learning JavaScript and React
 * 🤝  I'm open to collaborating on interesting Projects with other Developers
-* ⚡  Music during shower is just real peace ✌️
+* ⚡  Music during a shower is just real peace ✌️
 
 <a href="https://www.github.com/imvskalhans" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imvskalhans?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a><a href="https://www.twitter.com/imvskalhans/" target="_blank" rel="noreferrer"><img
