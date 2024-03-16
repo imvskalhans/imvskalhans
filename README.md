@@ -1,4 +1,4 @@
-Heya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)this is Vishal Singh
+   Heya 👋 this is Vishal Singh, Welcome to my GitHub Page
 ====================================================================================================================================
 
 I'm a Web Developer and a passionate learner of DSA
@@ -11,8 +11,8 @@ Currently, I'm learning React and NodeJs.
 * 🖥️  See my portfolio at [My Portfolio](https://imvskalhans.github.io/My-Portfolio/)
 * 🖥️  See my LeetCode profile at [Leetcode](http://https://leetcode.com/vsk6645/)
 * ✉️  You can contact me at [vsk6645@gmail.com](mailto:vsk6645@gmail.com)
-* 🚀  I'm currently working on a Food delivery site Web Project.
-* 🧠  I'm learning JavaScript and React
+* 🚀  I'm currently working on a Job Portal web project getHired.
+* 🧠  I'm learning MERN Stack.
 * 🤝  I'm open to collaborating on interesting Projects with other Developers
 * ⚡  Music during a shower is just real peace ✌️
 
